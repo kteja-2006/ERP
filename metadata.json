@@ -1,0 +1,6 @@
+{
+  "name": "School ERP",
+  "description": "Multi-tenant, production-grade School Management & ERP Platform with strict tenant isolation, RBAC, and relational data architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
